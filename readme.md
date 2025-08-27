@@ -1,4 +1,4 @@
-# 🖼️ CSS Animated Image Slider
+# 🖼️ CSS Animated Image Slider 
 
 A smooth, responsive, and beautifully animated image slider built with **HTML, CSS, and minimal JavaScript**. Perfect for portfolios, landing pages, or UI demos.
 
